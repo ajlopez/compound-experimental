@@ -1,0 +1,19 @@
+{
+  "name": "compound-protocol",
+  "version": "0.2.1",
+  "description": "The Compound Protocol",
+  "main": "index.js",
+  "scripts": {
+    "compile": "truffle compile"
+  },
+  "repository": "git@github.com:compound-finance/compound-protocol.git",
+  "author": "Compound Finance",
+  "license": "UNLICENSED",
+  "devDependencies": {},
+  "dependencies": {
+    "truffle": "^5.1.13",
+    "ethereumjs-tx": "^1.3.7",
+    "ethereumjs-util": "^6.1.0",
+    "simpleabi": "0.0.4"
+  }
+}
