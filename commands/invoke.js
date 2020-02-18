@@ -1,5 +1,5 @@
 
-const rskapi = require('../..');
+const rskapi = require('rskapi');
 const simpleabi = require('simpleabi');
 const utils = require('./lib/utils');
 const txs = require('./lib/txs');
